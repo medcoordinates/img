@@ -1,1 +1,1 @@
-eye injury|nose injury|head injury|loss of(consciousness or breath or electric shock)
+eye injury|nose injury|head injury|loss of(consciousness or breath or electric shock)|burn|poisoning|spinal injury|limb injury|chest injury|neck injury|bleeding
