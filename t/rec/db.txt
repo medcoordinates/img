@@ -1,1 +1,1 @@
-eye damage|nose injury
+eye injury|nose injury|head injury|loss of(consciousness or breath or electric shock)
